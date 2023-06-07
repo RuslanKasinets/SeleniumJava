@@ -25,7 +25,7 @@ public class task01 extends CommonMethods {
                     System.out.println(i+1);
                 }
 
-            }
+            }closeBrowser();
         }
 
 
